@@ -1,0 +1,15 @@
+{
+  "data": {
+    "status_code": "101",
+    "feeds": {
+      "39": {
+        "name": "Manish",
+        "address": "Noida"
+      },
+      "40": {
+        "name": "Pranav",
+        "address": "Delhi"
+      }
+    }
+  }
+}
